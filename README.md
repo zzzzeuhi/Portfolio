@@ -24,7 +24,7 @@ But no one's proud
 All I wanna do, all I wanna do
 Is say I love you
 All I wanna do, all I wanna do
-Is say I care
+> Is say I care
 I swear my words don't work
 Feeling like they have no worth
 Here and now there's nothing in between
